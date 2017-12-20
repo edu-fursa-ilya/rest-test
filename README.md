@@ -1,12 +1,11 @@
-{
-  "memes": [
+{"memes":
+            [{
+              "title":"Гительман",
+              "icon":"https://s.tcdn.co/b7c/61a/b7c61a97-e838-3a7f-8345-e5884b0ae5a0/192/2.png"
+            },
+
     {
-      "title": "Big Russian Boss",
-      "icon": "https://avatars.yandex.net/get-music-content/118603/7e098a39.p.3608179/200x200"
-    },
-    {
-      "title": "Гительман",
-      "icon": "https://pp.userapi.com/c636421/v636421704/40fac/zrI4DVc_Gik.jpg"
-    }
-  ]
+      "title":"Гительман",
+       "icon":"https://s.tcdn.co/b7c/61a/b7c61a97-e838-3a7f-8345-e5884b0ae5a0/192/2.png"
+    }]
 }
