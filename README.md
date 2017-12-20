@@ -18,5 +18,9 @@
    {
     "title": "Кама Пуля",
     "icon": "https://s.tcdn.co/7c5/8ee/7c58ee59-9aa0-3422-846b-e295ef2b1f0d/192/1.png"
+  },
+  {
+    "title": "Вжух",
+    "icon": "https://avatanplus.com/files/resources/mid/585c270e8222c15927f890c5.png"
   }
 ]
