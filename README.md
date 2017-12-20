@@ -7,5 +7,6 @@
     {
       "title": "Гительман",
       "icon": "https://pp.userapi.com/c636421/v636421704/40fac/zrI4DVc_Gik.jpg"
-    }]
     }
+  ]
+}
