@@ -1,6 +1,6 @@
 [
   {
-    "title": "Гительман",
+    "title": "Руслан Гительман(Король балдежа)",
     "icon": "https://s.tcdn.co/b7c/61a/b7c61a97-e838-3a7f-8345-e5884b0ae5a0/192/2.png"
   },
   {
@@ -10,6 +10,10 @@
    {
     "title": "Опасный пацык",
     "icon": "https://lastfm-img2.akamaized.net/i/u/avatar170s/17dfc2083d9145dd8297472cd8e573cf.jpg"
+  },
+    {
+    "title": "Джеки Чан мем",
+    "icon": "http://ktonanovenkogo.ru/image/chto-takoe-mem.png"
   },
    {
     "title": "Кама Пуля",
