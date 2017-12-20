@@ -14,5 +14,5 @@
    {
     "title": "Кама Пуля",
     "icon": "https://s.tcdn.co/7c5/8ee/7c58ee59-9aa0-3422-846b-e295ef2b1f0d/192/1.png"
-  },
+  }
 ]
